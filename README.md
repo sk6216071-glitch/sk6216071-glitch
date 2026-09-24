@@ -4,73 +4,72 @@
 
 🚀 Building real-world **web & application projects**
 🎬 Creator of **CineFuel**
-⚙️ Working with **JavaScript, React, Node.js, Express & MongoDB**
-📱 Exploring **Android development with Kotlin**
-🧠 Learning by building, experimenting and solving problems
+⚙️ Exploring **JavaScript • React • Node.js • MongoDB**
+📱 Building with **Kotlin & Android**
+🧠 Learning by building and experimenting
 
 ---
 
-### 🔭 Currently Working On
+## 🧰 Tech Stack
 
-🎬 **CineFuel** — Movie & OTT discovery platform
+### 💻 Languages
 
-### 🌱 Currently Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,kotlin" />
+</p>
 
-🌐 Advanced Web Development
-⚙️ Backend & REST APIs
-📱 Android Development
-🔐 Cybersecurity & Application Security
+### 🌐 Web Development
 
-### 👯 Open To
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-🤝 Collaborating on interesting projects
-💡 Building useful applications
-🚀 Exploring new technologies
+### 🗄️ Database & Backend
 
-### 💬 Ask Me About
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
-💻 Web Development
-🗄️ MongoDB & APIs
-🤖 Automation & Bots
-🎬 Media Technology
+### 🛠️ Tools & Platforms
 
-### ⚡ Developer Mindset
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm" />
+</p>
 
-> **Learn → Build → Break → Fix → Improve → Ship 🚀**
+### ☁️ Deployment
 
----
-
-## 🛠️ Technologies
-
-**Languages:** C • C++ • JavaScript • Python • Kotlin
-
-**Frontend:** HTML • CSS • React • React Router
-
-**Backend:** Node.js • Express.js • REST APIs • JWT
-
-**Database:** MongoDB • Mongoose • Firebase
-
-**Tools:** Git • GitHub • GitLab • VS Code • Postman • npm
-
-**Deployment:** Vercel • Cloudflare • Render • Replit
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,replit" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
 
-🎬 **CineFuel** — Movie & OTT discovery
+🎬 **CineFuel**
+Movie & OTT discovery platform.
 
-🏠 **SaServe** — Home-services platform concept
+🏠 **SaServe**
+Home-services platform concept.
 
-📱 **ServiceSync** — Android application project
+📱 **ServiceSync**
+Android application project.
 
-💊 **Medicare** — Medicine information & ordering application
+💊 **Medicare**
+Medicine information & ordering application.
 
-🤖 **Telegram Bot** — Automation & API project
+🤖 **Telegram Bot**
+Automation and API project.
 
 ---
 
-### 📊 GitHub Stats
+## 🌱 Currently Exploring
+
+`Web Development` · `Backend` · `REST APIs` · `Android` · `Cybersecurity` · `Media Technology`
+
+---
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=sk6216071-glitch\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
@@ -80,7 +79,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sk6216071-glitch\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
@@ -92,4 +91,8 @@
 
 ---
 
-> `while(alive) { learn(); build(); improve(); }` 💻
+### 💡 Developer Mindset
+
+> **Learn → Build → Break → Fix → Improve → Ship 🚀**
+
+`while(alive) { learn(); build(); improve(); }`
